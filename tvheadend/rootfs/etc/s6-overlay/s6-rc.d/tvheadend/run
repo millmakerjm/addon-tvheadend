@@ -1,4 +1,4 @@
-#!/usr/bin/with-contenv bashio
+#!/usr/bin/env bashio
 # shellcheck shell=bash
 # ==============================================================================
 # Home Assistant Community Add-on: TVHeadend
